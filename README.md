@@ -3,10 +3,10 @@ ival
 
 ival (Inference and Validation) is a Python package for the inference of models of brain dynamics and validation on neural data.
 
-Installation
+Installation (TODO)
 -----------
 
-The easiest way to install hoi is using ``pip``:
+The easiest way to install ival is using ``pip``:
 
     pip install -U ival
 
