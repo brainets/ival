@@ -19,10 +19,3 @@ For developers, you can install it in develop mode with the following commands :
     git clone https://github.com/brainets/ival.git
     cd ival
     pip install -e .['dev']
-
-+++++++++++++
-
-
-Communication
-+++++++++++++
-
