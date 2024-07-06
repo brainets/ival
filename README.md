@@ -4,7 +4,7 @@ ival
 ival (Inference and Validation) is a Python package for the inference of models of brain dynamics and validation on neural data.
 
 Installation
-============
+-----------
 
 The easiest way to install hoi is using ``pip``:
 
@@ -18,10 +18,6 @@ You can also install the latest version of the software directly from Github :
 
     pip install git+https://github.com/brainets/ival.git
 
-
-For developers
-++++++++++++++
-
 For developers, you can install it in develop mode with the following commands :
 
 .. code-block:: shell
@@ -30,11 +26,6 @@ For developers, you can install it in develop mode with the following commands :
     cd ival
     pip install -e .['dev']
 
-
-Help and Support
-================
-
-Documentation
 +++++++++++++
 
 
