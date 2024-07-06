@@ -6,26 +6,11 @@ ival (Inference and Validation) is a Python package for the inference of models 
 Installation
 ============
 
-Dependencies
-++++++++++++
-
-ival requires :
-
-- Python (>= 3.8)
-- numpy(>=1.22)
-- scipy (>=1.9)
-- vbjax
-- pandas
-- frites
-
-User installation
-+++++++++++++++++
-
 The easiest way to install hoi is using ``pip``:
 
 .. code-block:: shell
 
-    pip install -U hoi
+    pip install -U ival
 
 You can also install the latest version of the software directly from Github :
 
@@ -43,7 +28,7 @@ For developers, you can install it in develop mode with the following commands :
 
     git clone https://github.com/brainets/ival.git
     cd ival
-    pip install -e .['full']
+    pip install -e .['dev']
 
 
 Help and Support
