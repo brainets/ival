@@ -1,6 +1,6 @@
-
 .. code-block:: shell
-ival
+
+    ival
 ===========
 
 ival (Inference and Validation) is a Python package for the inference of models of brain dynamics and validation on neural data.
